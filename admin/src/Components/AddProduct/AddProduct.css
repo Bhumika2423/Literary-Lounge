@@ -1,0 +1,141 @@
+.addproduct {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .addproduct-itemfield {
+    margin-bottom: 20px;
+  }
+  
+  .addproduct-itemfiled {
+    margin-bottom: 15px;
+  }
+  
+  .addproduct-price {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-product-selector {
+    padding: 5px;
+  }
+  
+  .addproduct-btn {
+    background-color: #e44c4c;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .addproduct-btn:hover {
+    background-color: #e44c4c;
+  }
+  
+  #file-input {
+    display: none;
+  }
+  
+  label[for="file-input"] {
+    cursor: pointer;
+  }
+  
+  .addproduct-btn {
+    background-color: #e44c4c;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .addproduct-btn:hover {
+    background-color: #e44c4c;
+  }
+  
+  .addproduct-price p {
+    margin: 5px 0;
+  }
+  
+  .addproduct-itemfield p {
+    margin: 5px 0;
+  }
+  
+  .addproduct-itemfield input,
+  .addproduct-itemfield select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .addproduct-itemfiled img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .addproduct-itemfiled img:hover {
+    cursor: pointer;
+    opacity: 0.8;
+  }
+  
+  .listproduct {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .listproduct h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .listproduct-format-main {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+    font-weight: bold;
+  }
+  
+  .listproduct-allproducts {
+    margin-top: 20px;
+  }
+  
+  .listproduct-format {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .listproduct-remove-button {
+    background-color: #ff3333;
+    color: #fff;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .listproduct-remove-button:hover {
+    background-color: #cc0000;
+  }
+  

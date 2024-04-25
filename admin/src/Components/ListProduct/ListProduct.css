@@ -1,0 +1,53 @@
+.listproduct {
+    text-align: center;
+  }
+  
+  .listproduct h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .listproduct-format-main {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    font-weight: bold;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .listproduct-format-main p {
+    margin: 0;
+  }
+  
+  .listproduct-allproducts {
+    margin-top: 10px;
+  }
+  
+  .listproduct-format-main.listproduct-format {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    border-top: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .listproduct-product-icon {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+  
+  .listproduct-remove-button {
+    background-color: #e44c4c;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .listproduct-remove-button:hover {
+    background-color: #e44c4c;
+  }
+  
