@@ -1,0 +1,32 @@
+# Literary Lounge: An Online Bookstore
+
+## Description
+Literary Lounge is a dynamic online bookstore platform that offers a seamless shopping experience for book lovers. Built using HTML, CSS, JavaScript, React, and Node.js, users can explore a vast collection of books, manage their cart, and complete purchases effortlessly.
+
+## Features
+- User-friendly interface for easy navigation
+- Search functionality to find books quickly
+- Shopping cart management for a smooth checkout experience
+- User authentication to manage accounts (if applicable)
+- Reviews and ratings system to help users make informed decisions
+
+## Technologies Used
+- **Front-end**: 
+  - HTML5
+  - CSS3
+  - JavaScript
+  - React.js
+- **Back-end**: 
+  - Node.js
+  - Express.js (if used)
+- **Database**: 
+  - MongoDB / PostgreSQL (if applicable)
+- **Other**: 
+  - npm, Git, GitHub
+
+## Installation
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Bhumika2423/literary-lounge.git
