@@ -18,9 +18,10 @@ Literary Lounge is a dynamic online bookstore platform that offers a seamless sh
   - React.js
 - **Back-end**: 
   - Node.js
-  - Express.js (if used)
+  - Express.js 
+  - Python
 - **Database**: 
-  - MongoDB / PostgreSQL (if applicable)
+  - MongoDB / PostgreSQL 
 - **Other**: 
   - npm, Git, GitHub
 
